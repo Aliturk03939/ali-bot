@@ -4,7 +4,7 @@ import openai
 
 # --- المفاتيح السرية ---
 BOT_TOKEN = "8393140091:AAGmCGFWjBTYs2tfsg2ODPwHpZjzFBv3e6o"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "sk-proj-arykTRA32HfJRQzRTbOiXcBT2jE_G5YNanLL06fVab9YNERteYMQYvMOU6urFx1yCu_wqAo7gl7T3BlbkFJZYYC9H8gBzljfgpIdnGBbHKzSr1Beej5dvwNa45X85o2Eb9lAuDfSX6Kpz6QzHcSfmPSDmrfsA"
 
 # --- إعداد الأدوات ---
 bot = telebot.TeleBot(BOT_TOKEN)
